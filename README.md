@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <details>
 <summary>Listening 🎵</summary>
 
@@ -8,6 +6,8 @@
 </details>
 
 <!--
+### Hi there 👋
+
 **stradrich/stradrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
