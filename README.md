@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1277016215&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<details>
+<summary>Listening 🎵</summary>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</details>
 
 <!--
 **stradrich/stradrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
