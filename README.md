@@ -11,13 +11,14 @@
   </samp>  
 </p>
 
-<details style="text-align: center;">
-
-<summary>listening 🎵</summary>
+<div style="text-align: center;">
+  <details>
+    <summary>listening 🎵</summary>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1277016215&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</details>
+  </details>
+</div>
 
 
   
