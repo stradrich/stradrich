@@ -11,7 +11,7 @@
   </samp>  
 </p>
 
-<details>
+<details style="text-align: center;">
 
 <summary>listening 🎵</summary>
 
