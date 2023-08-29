@@ -4,10 +4,8 @@
     <a>resume</a> .
     <a>blogs</a> .
     <a>projects</a> .
-    <a>tweets</a> .
     <a>discord</a> .
     <a>instagram</a> .
-    <a>sponsor</a>
   </samp>  
 </p>
 
