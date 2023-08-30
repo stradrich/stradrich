@@ -5,7 +5,7 @@
     <a>blogs</a> .
     <a>projects</a> .
     <a>discord</a> .
-    <a>instagram</a> .
+    <a>instagram</a> 
   </samp>  
 </p>
 
